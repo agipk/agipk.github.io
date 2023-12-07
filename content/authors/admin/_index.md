@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Mr.
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Agi Putra Kharisma
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Agi Putra
+last_name: Kharisma
 
 # Status emoji
 status:
@@ -17,34 +17,35 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Fakultas Ilmu Komputer, Universitas Brawijaya
+    url: https://filkom.ub.ac.id
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include human-computer interaction, mobile computing, game design & development, software engineering
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Computer Interaction
+  - Ergonomics/Human Factors
+  - Human-AI Interaction
+  - More-than-Human Design
+  - Game Design
+  - Software Engineering
+  - REST Webservice
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Magister Teknik in Informatics/Software Engineering
+      institution: Institut Teknologi Bandung
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Sarjana Teknik in Electrical Engineering/Informatics
+      institution: Universitas Brawijaya
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,7 +97,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/agipk
     label: Follow me on Twitter
     display:
       header: true
@@ -120,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Agi Putra Kharisma is a lecturer in the Departemen Teknik Informatika at the Fakultas Ilmu Komputer of Universitas Brawijaya. He has interests in the fields of Human-Computer Interaction, Game design, and Software Engineering. He also serves as the secretary of the Media Game and Mobile (MGM) laboratory at the Faculty of Computer Science of Brawijaya University.
 {style="text-align: justify;"}
