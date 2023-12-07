@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mr.
+title: Agi
 
 # Name pronunciation (optional)
 name_pronunciation: Agi Putra Kharisma
@@ -30,12 +30,13 @@ bio: My research interests include human-computer interaction, mobile computing,
 # Interests to show in About widget
 interests:
   - Human-Computer Interaction
+  - User Experience Design and Evaluation
   - Ergonomics/Human Factors
   - Human-AI Interaction
   - More-than-Human Design
   - Game Design
   - Software Engineering
-  - REST Webservice
+  - Web and Mobile Application Development
 
 # Education to show in About widget
 education:
