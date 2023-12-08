@@ -94,7 +94,7 @@ skills:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: strava
-    icon_pack: fas
+    icon_pack: fab
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
