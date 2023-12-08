@@ -93,8 +93,8 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: instagram
-    icon_pack: hb
+  - icon: strava
+    icon_pack: fas
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
