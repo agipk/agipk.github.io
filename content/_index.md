@@ -64,8 +64,6 @@ sections:
       username: admin
     design:
       columns: '1'
-  <!-- On Progress -->
-  <!--
 
   - block: experience
     content:
@@ -297,5 +295,4 @@ sections:
           captcha: false
     design:
       columns: '2'
-      -->
 ---
