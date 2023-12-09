@@ -56,6 +56,17 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    content:
+      title: Undergraduate Thesis Supervision
+      text: |-
+         <script src="https://bibbase.org/show?bib=https://bibbase.org/network/files/NvWXT4PpRE5KYvHdz&jsonp=1&folding=1"></script> 
+      filters:
+        folders:
+          - skripsi
+        exclude_featured: true
+    design:
+      columns: '2'
   - block: skills
     content:
       title: Skills
