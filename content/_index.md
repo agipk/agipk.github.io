@@ -60,13 +60,16 @@ sections:
     content:
       title: Undergraduate Thesis Supervision
       text: |-
-         <script src="https://bibbase.org/show?bib=https://bibbase.org/network/files/NvWXT4PpRE5KYvHdz&jsonp=1&folding=1"></script> 
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./skripsi/).
+        {{% /callout %}}
       filters:
         folders:
           - skripsi
         exclude_featured: true
     design:
       columns: '2'
+      view: citation
   - block: skills
     content:
       title: Skills
