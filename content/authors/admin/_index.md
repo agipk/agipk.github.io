@@ -57,12 +57,12 @@ skills:
         description: ''
         percent: 100
         icon: brain
-        icon_pack: fab
+        icon_pack: fas
       - name: Game Design
         description: ''
         percent: 100
         icon: gamepad
-        icon_pack: fab
+        icon_pack: fas
       - name: Software Engineering
         description: '80'
         percent: 100
@@ -76,12 +76,12 @@ skills:
         description: ''
         percent: 100
         icon: gamepad
-        icon_pack: fab
+        icon_pack: fas
       - name: Weight Lifting
         description: ''
         percent: 100
         icon: dumbbell
-        icon_pack: fab
+        icon_pack: fas
       - name: Photography
         description: ''
         percent: 100
