@@ -77,7 +77,7 @@ skills:
         percent: 100
         icon: gamepad
         icon_pack: fas
-      - name: Exercise
+      - name: Excercise
         description: 'Strength and Cardio'
         percent: 100
         icon: dumbbell
