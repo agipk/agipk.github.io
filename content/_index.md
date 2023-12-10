@@ -61,7 +61,7 @@ sections:
       title: Undergraduate Thesis Supervision
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./skripsi/).
+        Quickly discover relevant content by [filtering skripsi](./skripsi/).
         {{% /callout %}}
       filters:
         folders:
