@@ -64,7 +64,7 @@ skills:
         icon: gamepad
         icon_pack: fas
       - name: Software Engineering
-        description: '80'
+        description: 'Mobile and Web Application Development, Modern Software Engineering'
         percent: 100
         icon: android
         icon_pack: fab
