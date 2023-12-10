@@ -22,7 +22,7 @@ role: Lecturer
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Fakultas Ilmu Komputer, Universitas Brawijaya
-    url: https://filkom.ub.ac.id
+    url: https://filkom.ub.ac.id/profile/dosen/agi.putra.kharisma
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include human-computer interaction, mobile computing, game design & development, software engineering
@@ -35,7 +35,7 @@ interests:
   - Human-AI Interaction
   - More-than-Human Design
   - Game Design
-  - Software Engineering
+  - Modern Software Engineering
   - Web and Mobile Application Development
 
 # Education to show in About widget
@@ -54,12 +54,12 @@ skills:
   - name: Technical
     items:
       - name: UX Design and Evaluation
-        description: ''
+        description: 'Measurement, Experimentation'
         percent: 100
         icon: brain
         icon_pack: fas
       - name: Game Design
-        description: ''
+        description: 'Unity'
         percent: 100
         icon: gamepad
         icon_pack: fas
@@ -73,17 +73,17 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Video Game
-        description: ''
+        description: 'Nintendo, Handheld Gaming'
         percent: 100
         icon: gamepad
         icon_pack: fas
-      - name: Weight Lifting
-        description: ''
+      - name: Exercise
+        description: 'Strength and Cardio'
         percent: 100
         icon: dumbbell
         icon_pack: fas
       - name: Photography
-        description: ''
+        description: 'Recreational'
         percent: 100
         icon: camera-retro
         icon_pack: fas
