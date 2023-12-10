@@ -33,22 +33,22 @@ jobs:
       - name: Run Academic (Bibtex To Markdown Converter)
         # Check `.bib` file exists for case when action runs on `.bib` deletion
         # Note GH only provides hashFiles func in `steps.if` context, not `jobs.if` context
-        if: ${{ hashFiles('publications.bib') != '' }}
-        run: academic import publications.bib content/skripsi/ --compact
+        if: ${{ hashFiles('skripsi.bib') != '' }}
+        run: academic import skripsi.bib content/skripsi/ --compact
       - name: Create Pull Request
         # Set ID for `Check outputs` stage
         id: cpr
         uses: peter-evans/create-pull-request@v5
         with:
-          commit-message: 'content: import publications from Bibtex'
-          title: Hugo Blox Builder - Import latest publications
+          commit-message: 'content: import skripsi from Bibtex'
+          title: Hugo Blox Builder - Import latest skripsi
           body: |
-            Import the latest publications from `publications.bib` to `content/publication/`.
-            将最新的出版物从`publications.bib`导入到`content/publication/`。
+            Import the latest publications from `skripsi.bib` to `content/skripsi/`.
+            将最新的出版物从`skripsi.bib`导入到`content/skripsi/`。
             [View Documentation](https://github.com/GetRD/academic-file-converter)
           base: main
           labels: automated-pr, content
-          branch: hugoblox-import-publications
+          branch: hugoblox-import-skripsi
           delete-branch: true
       - name: Check outputs
         if: ${{ steps.cpr.outputs.pull-request-number }}
