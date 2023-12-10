@@ -232,17 +232,11 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
       address:
         street: Jl. Veteran
         city: Malang
-        region: CA
-        postcode: '94305'
         country: Indonesia
-      directions: Enter Building F and take the lift to Room 6.8 on Floor 6
+      directions: At FILKOM UB, enter building F and take the lift to Room 6.8 on Floor 6
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '-7.9540446'
@@ -251,15 +245,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://twitter.com/agipk'
     design:
       columns: '2'
 ---
