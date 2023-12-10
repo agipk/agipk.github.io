@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Skripsi
 cms_exclude: true
 
 # View.
