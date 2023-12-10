@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
+    id: skills
     content:
       title: Skills
       text: ''
@@ -53,6 +54,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
@@ -67,6 +69,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: undergraduate-theses
     content:
       title: Undergraduate Theses
       filters:
@@ -77,6 +80,7 @@ sections:
       columns: '2'
       view: citation
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
