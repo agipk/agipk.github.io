@@ -110,5 +110,5 @@ social:
 highlight_name: true
 ---
 
-Agi Putra Kharisma is aan assistant professor in the Departemen Teknik Informatika at the Fakultas Ilmu Komputer of Universitas Brawijaya. He has interests in the fields of Human-Computer Interaction, Game design, and Software Engineering. He also serves as the secretary of the Media Game and Mobile (MGM) laboratory at the Fakultas Ilmu Komputer of Universitas Brawijaya.
+Agi Putra Kharisma is an assistant professor in the Departemen Teknik Informatika at the Fakultas Ilmu Komputer of Universitas Brawijaya. He has interests in the fields of Human-Computer Interaction, Game design, and Software Engineering. He also serves as the secretary of the Media Game and Mobile (MGM) laboratory at the Fakultas Ilmu Komputer of Universitas Brawijaya.
 {style="text-align: justify;"}
