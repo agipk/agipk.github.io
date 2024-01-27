@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Lecturer
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
